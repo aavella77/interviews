@@ -1,0 +1,5 @@
+10 AM - IOError
+11 AM - SyntaxError
+12 PM - NameError
+1 PM - TypeError
+3 PM - Success
